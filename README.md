@@ -1,1 +1,1 @@
-# stfp-intergration
+# stfp-integration
